@@ -1,4 +1,4 @@
-# AI-Assistant-Landing-page
+# AI-Assistant-Landing-page and Product Demo Video
 
 
 [Hotel AI Landing Page](https://aiassistant.co/hotelai/)
@@ -11,5 +11,13 @@ Here are the things I worked on this landing page-
 - **Design and Development**: Using Swipe pages, created a visually appealing and responsive landing page.  
 - **Content Creation**: Wrote all the content for the page, focusing on showcasing the AI-driven features and benefits of the product while resonating with the target audience.  
 - **Targeted Messaging**: Highlighted the product's unique value in improving hotel operations and enhancing guest experiences.  
-- **Conversion Optimization**: Designed the page layout and copy to drive engagement and encourage sign-ups or inquiries.  
+- **Conversion Optimization**: Designed the page layout and copy to drive engagement and encourage sign-ups or inquiries.
 
+[Hotel AI Product Demo Video](https://vimeo.com/1000875371?share=copy)
+
+
+Here are the things I worked on this demo video-
+- **Design and Development**: Using Swipe pages, created a visually appealing and responsive landing page.  
+- **Content Creation**: Created the content for the page, focusing on showcasing the product's features and how it would benefit to the hotel industry.
+- **Targeted Messaging**: Highlighted the product's unique value in improving hotel operations and enhancing guest experiences.  
+- **Conversion Optimization**: Designed the page layout and copy to drive engagement and encourage sign-ups or inquiries.
