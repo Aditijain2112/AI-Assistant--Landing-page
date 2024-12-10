@@ -18,6 +18,6 @@ Here are the things I worked on the landing page-
 The Product demo video is hosted on "Vimeo" and is integrated into the Hotel AI landing page.
 
 Here are the things I worked on the demo video- 
-- **Content Creation**: Created the script for the video, focusing on showcasing the product's features and how it would benefit to the hotel industry.
+- **Content Creation**: Created the script for the video, focusing on showcasing the product's features and how it would benefit to the hotel industry. Click here for the [Product demo video script](https://drive.google.com/file/d/1VhXw9RdN5L1yQJIMJCHdgFhg9juRW1Q8/view?usp=sharing)
 - **Cross functional coordination**: Coordinated with an agency partner and planned the visuals and flow of the video. 
 - **Optimization**: Optimized the video content in order to make it more engaging and capture MQL's.
